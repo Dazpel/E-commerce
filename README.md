@@ -2,5 +2,5 @@
 
 ## Todo improvements:
 
-GraphQL + Apollo (Coming)
-Mobile Responsive
+### GraphQL + Apollo (Coming)
+### Mobile Responsive
