@@ -3,3 +3,4 @@
 ## Todo improvements:
 
 GraphQL + Apollo (Coming)
+Mobile Responsive
